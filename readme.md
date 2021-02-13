@@ -1,11 +1,11 @@
 ###	tasks
-1. pull repo
-2. get up and running
+1. DONEpull repo
+2. DONEget up and running
 ```
 $ export FLASK_APP=hello.py
 $ flask run
 ```
-3. fix 'The back-end contain several errors'
+3. DONEfix 'The back-end contain several errors'
 4. form for searching
 5. hit api test
 6. show results
